@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Mern Stack**
 
-- 👨‍💻 All of my projects are available at [[https://portfolio-d2e20b.netlify.app/#/](https://my-portfolio-270.netlify.app/#/)]
+- 👨‍💻 All of my projects are available at [https://my-portfolio-270.netlify.app/#/(https://my-portfolio-270.netlify.app/#/)]
 
 - 📫 How to reach me **maryam27cs@gmail.com**
 
