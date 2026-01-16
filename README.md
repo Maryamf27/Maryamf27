@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maryamf27&label=Profile%20views&color=0e75b6&style=flat" alt="maryamf27" /> </p>
 
-- 🔭 I’m currently internship at **DevLayers Company**
+- 🔭 I’m currently doing internship at **DevLayers Company**
 
 - 🌱 I’m currently learning **Computer Science**
 
