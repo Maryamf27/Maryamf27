@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maryamf27&label=Profile%20views&color=0e75b6&style=flat" alt="maryamf27" /> </p>
 
-- 🔭 I’m currently working on **AI Powered project**
+- 🔭 I’m currently internship at **DevLayers Company**
 
-- 🌱 I’m currently learning **Mern Stack**
+- 🌱 I’m currently learning **Computer Science**
 
-- 👨‍💻 All of my projects are available at https://my-portfolio-270.netlify.app/#/
+- 👨‍💻 All of my projects are available at [https://personal-portfolio-gqhb.vercel.app/]
 
 - 📫 How to reach me **maryam27cs@gmail.com**
 
