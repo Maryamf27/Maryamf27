@@ -16,7 +16,6 @@
 ## 🧑‍💻 About Me
 
 - 🎓 Currently pursuing **BS Computer Science**
-- 🔭 Currently building a **real-time Chat App** with Socket.io
 - 🌱 Learning **System Design, WebSockets & Cloud Deployment**
 - 💬 Ask me about **TypeScript, React, Next.js, Node.js, MongoDB**
 - 🌐 Portfolio: [personal-portfolio-gqhb.vercel.app](https://personal-portfolio-gqhb.vercel.app)
